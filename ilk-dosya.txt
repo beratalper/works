@@ -1,3 +1,0 @@
-Merhaba Git.
-
-Bundan sonra birlikte çok işler yapacağız.
